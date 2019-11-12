@@ -1,0 +1,1 @@
+<iframe src="{{ asset('images/notice/'. $notice->notice) }}" width="100%" height="600"></iframe>
